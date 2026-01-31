@@ -2,9 +2,7 @@
 
 A full-stack agentic chatbot designed to assist PartSelect customers with refrigerator and dishwasher parts. Built with **LangGraph** (Stateful Agent), **FastAPI** (Backend), and **React** (Frontend).
 
-## Quick Start (Important)
-
-To minimize submission size, `node_modules` has been excluded.
+## Quick Start
 
 ### 1. Backend Setup
 ```bash
